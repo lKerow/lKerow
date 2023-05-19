@@ -10,6 +10,8 @@ I'm currently learning Python, JavaScript and doing some personal and collaborat
 <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Sunglasses#7234" height="30" width="40" /></a>
 <a href="https://t.me/Zyeho" target="_blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="" height="40" width="40"/></a>
+<a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="" height="40" width="40"/></a>
 </p>
 
 
