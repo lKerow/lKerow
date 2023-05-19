@@ -18,4 +18,3 @@ I'm currently learning Python, JavaScript and doing some personal and collaborat
 
 
 
-![Zyeho's github stats](https://github-readme-stats.vercel.app/api?username=Zyeho)
