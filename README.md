@@ -3,6 +3,13 @@
   <b>Hello everyone, my name is Sebastián.</b></p>
 I'm currently learning Python, JavaScript and doing some personal and collaboratives projects.
 <h3 align="left"> Contact Me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UChSFUZgBa7PlnW0lbQmFxbQ" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zzyeho" height="30" width="40" /></a>
+<a href="https://discord.gg/Sunglasses#7234" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sunglasses#7234" height="30" width="40" /></a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
