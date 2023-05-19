@@ -6,4 +6,4 @@
 - 
 
 
-[Zyeho's github stats](https://github-readme-stats.vercel.app/api?username=Zyeho)
+![Zyeho's github stats](https://github-readme-stats.vercel.app/api?username=Zyeho)
