@@ -5,7 +5,7 @@ I'm currently learning Python, JavaScript and doing some personal and collaborat
 <h3 align="left"> Contact Me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UChSFUZgBa7PlnW0lbQmFxbQ" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="" height="30" width="40" /></a>
+<img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" height="40" width="40" /></a>
 <a href="https://discord.gg/Sunglasses#7234" target="blank">
 <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Sunglasses#7234" height="30" width="40" /></a>
 </p>
