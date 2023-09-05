@@ -1,7 +1,7 @@
 <h1 align="center">print("Hello World!") <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1> 
 <p align="center">
   <b>Hello everyone, my name is Sebastián.</b></p>
-I'm currently learning Python, JavaScript and doing some personal and collaboratives projects.
+I'm currently learning Python, C# and SQL.
 <h3 align="left"> Contact Me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UChSFUZgBa7PlnW0lbQmFxbQ" target="_blank">
