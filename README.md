@@ -1,6 +1,6 @@
 <h1 align="center">print("Hello World!")</h1> 
 <p align="center">
-  <b>Hello everyone, my name is Sebastián.</b></p>
+  <b>Colombian Data Science student with Python and SQL.</b></p>
 <p align="center"> Im currently learning Python, C# and SQL. </p>
 <h3 align="center"> Contact Me:</h3>
 <p align="center">
