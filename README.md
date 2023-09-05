@@ -5,7 +5,7 @@ I'm currently learning Python, C# and SQL.
 <h3 align="left"> Contact Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-mej%C3%ADa-6a091a28a/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="75" width="40" /></a>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="100" width="100" /></a>
 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-mej%C3%ADa-6a091a28a/" target="_blank">
 <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="_kerow." height="30" width="40" /></a>
 </p>
@@ -14,6 +14,6 @@ I'm currently learning Python, C# and SQL.
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="40" height="40"/> </a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="100" height="100"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
