@@ -14,6 +14,6 @@ I'm currently learning Python, C# and SQL.
 
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="50" width="110"/> </a>
+<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="50" width="110"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="50" width="110"/> </a> </p>
+<img aling="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="50" width="110"/> </a> </p>
