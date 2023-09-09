@@ -13,7 +13,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="40" width="120"/> </a>
+<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="50" width="120"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40" width="120"/> </a> </p>
+<img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="50" width="120"/> </a> </p>
 </p>
