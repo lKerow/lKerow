@@ -5,7 +5,7 @@
 <h3 align="center"> Contact Me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-mej%C3%ADa-6a091a28a/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="60" width="120" /></a>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="70" width="120" /></a>
 </p>
 
 
